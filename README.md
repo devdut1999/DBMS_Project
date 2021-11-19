@@ -1,11 +1,11 @@
-#Introduction:
+# Introduction:
 
 This project is a fully functional Ecommerce website built with easy to use User Interface for purchasing various merchandise online.
 
-#Tech Stacks Used:
+# Tech Stacks Used:
 The backend for this project is built using Spring Boot and Hibernate; whereas CSS and javascript are used for the frontend part.
 
-#Features:
+# Features:
 	1.Multiple user roles such as
 		a.Customer
 		b.Admin
@@ -19,8 +19,8 @@ The backend for this project is built using Spring Boot and Hibernate; whereas C
 	6.Portal for Microblogging/Posting Reviews
 	7.Godown and supply management
 
-#User Guide
-##To run the project of your personal computer complete the following steps:
+# User Guide
+## To run the project of your personal computer complete the following steps:
 	1.Download the source code
 	2.Install Eclipse (developer version)
 	3.Import the downloaded source code
